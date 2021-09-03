@@ -1,5 +1,5 @@
 
 
-Coding practice collections.
+Coding practice question collection
 
 
